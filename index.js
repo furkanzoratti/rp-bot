@@ -30,3 +30,4 @@ client.on('interactionCreate', async (itx) => {
 
 client.login(process.env.DISCORD_TOKEN);
 // trigger
+// trigger deploy
